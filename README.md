@@ -1,5 +1,12 @@
 # OLN
 
+#Définition du problème
+
+Problème:
+Apprendre en STD2A
+classe de 30 élève de première
+Plus de 1000 élèves au lycée
+
 Les composants du problèmes
 
 sujet:
