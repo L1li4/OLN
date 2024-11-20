@@ -29,3 +29,8 @@ outils numériques
 
 en classe de première 
 avec 30 élèves
+
+objet:
+bureau
+chaise
+tableau
