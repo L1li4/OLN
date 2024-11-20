@@ -59,3 +59,31 @@ design d'interfaces
 UI et UX Design
 design de communication
 main
+
+référence:
+-google workspace:
+
+domaine:
+-design de communication
+
+usagers:
+-professionnels sous la forme d'un abonnement.
+
+réponds aux besoins:
+-les adresses de courrier électronique personnalisé
+-un espace de stockage de 30 Go pour les documents et les courriels
+-stocke sur un centre de données sécurisés de Google
+-une assistance 24h/24 et 7j/7
+-partager et modifier en temps réel
+-des révisions illimité = conserver toutes les modifications apportées
+
+comment utiliser:
+-plusieurs apllications:
+-Gmail
+-Google Drive
+-Google Docs (Google Sheets, Google Slides, Google Forms)
+-Google Sites
+-Google Agenda
+-Google Hangouts. Google Meet
+-Google Currents
+-Google Vault
