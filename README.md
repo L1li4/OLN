@@ -45,3 +45,9 @@ Quels Acteurs ?
 élèves 
 professeurs
 Parents
+
+Dans quel domaine de design s'inscrit notre outil? 
+design d'interfaces
+UI et UX Design
+design de communication
+main
