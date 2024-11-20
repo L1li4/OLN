@@ -27,10 +27,9 @@ délégué
 CVL
 outils numériques
 
+personnes:
 en classe de première 
 avec 30 élèves
-
-objet:
-bureau
-chaise
-tableau
+conflit
+classe de filles au nombre de 27
+ main
