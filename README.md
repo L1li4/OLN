@@ -30,10 +30,18 @@ outils numériques
 personnes:
 en classe de première 
 avec 30 élèves
-conflit
+3 garcons
 classe de filles au nombre de 27
+conflit-2
 
-#Composante du problème
+#composant du probleme
+
+quelle matieres sont etudier?
+ONL
+démarche créative
+Arts techniques et civilisation
+PAV
+ main
 
 Quels Infrastructures ?
 Salle de classe
