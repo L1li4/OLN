@@ -32,4 +32,16 @@ en classe de première
 avec 30 élèves
 conflit
 classe de filles au nombre de 27
- main
+
+#Composante du problème
+
+Quels Infrastructures ?
+Salle de classe
+Foyer
+CDI
+Salle de permanence
+
+Quels Acteurs ?
+élèves 
+professeurs
+Parents
