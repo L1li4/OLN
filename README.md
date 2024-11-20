@@ -32,3 +32,12 @@ en classe de première
 avec 30 élèves
 3 garcons
 conflit-2
+
+#composant du probleme
+
+quelle matieres sont etudier?
+ONL
+démarche créative
+Arts techniques et civilisation
+PAV
+
