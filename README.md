@@ -30,5 +30,6 @@ outils numériques
 personnes:
 en classe de première 
 avec 30 élèves
+conflit
 classe de filles au nombre de 27
-
+ main
