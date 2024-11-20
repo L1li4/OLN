@@ -33,9 +33,3 @@ avec 30 élèves
 conflit
 classe de filles au nombre de 27
  main
-
-#composant du problème:
-Dans quel domaine de design s'inscrit notre outil? 
--design d'interfaces
--UI et UX Design
--design de communication
