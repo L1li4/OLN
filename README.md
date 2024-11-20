@@ -87,3 +87,21 @@ comment utiliser:
 -Google Hangouts. Google Meet
 -Google Currents
 -Google Vault
+
+référence:
+-calendrier numérique ou papier
+
+domaines:
+-design de communication
+
+usagers:
+personnes agês, jeunes, professionels
+
+réponds aux besoins:
+-se mettre d'accord
+-savoir quel jour on est
+-savoir les événements de l'année
+-pouvoir noter les rdv ou événement qu'on a (si numérique recevoir alarme) 
+
+comment l'utiliser:
+noter ses rdv
