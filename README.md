@@ -30,5 +30,5 @@ outils numériques
 personnes:
 en classe de première 
 avec 30 élèves
-classe de filles au nombre de 27
-
+3 garcons
+conflit-2
