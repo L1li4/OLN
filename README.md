@@ -29,3 +29,4 @@ outils numériques
 
 en classe de première 
 avec 30 élèves
+3 garcons
