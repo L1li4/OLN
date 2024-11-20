@@ -27,6 +27,8 @@ délégué
 CVL
 outils numériques
 
+personnes:
 en classe de première 
 avec 30 élèves
 3 garcons
+conflit-2
