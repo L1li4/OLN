@@ -32,10 +32,22 @@ en classe de première
 avec 30 élèves
 conflit
 classe de filles au nombre de 27
- main
 
-#composant du problème:
+#Composante du problème
+
+Quels Infrastructures ?
+Salle de classe
+Foyer
+CDI
+Salle de permanence
+
+Quels Acteurs ?
+élèves 
+professeurs
+Parents
+
 Dans quel domaine de design s'inscrit notre outil? 
--design d'interfaces
--UI et UX Design
--design de communication
+design d'interfaces
+UI et UX Design
+design de communication
+main
