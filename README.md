@@ -143,3 +143,18 @@ les appels vidéo
 l'édition de documents
 
 comment l'utiliser:
+
+référence:
+trello
+
+domaines:
+informatique/d'interfaces
+design de communication 
+
+usagers:
+personne qui utilise le site
+
+répond aux besoins:
+gestion des tâches basé sur le système de Tableau Kanban
+créer des tableaux visuels
+avoit des tâches puis les assigner aux différents membres d'une équipe
