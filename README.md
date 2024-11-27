@@ -32,7 +32,6 @@ en classe de première
 avec 30 élèves
 3 garcons
 classe de filles au nombre de 27
-conflit-2
 
 #composant du probleme
 
@@ -41,7 +40,7 @@ ONL
 démarche créative
 Arts techniques et civilisation
 PAV
- main
+
 
 Quels Infrastructures ?
 Salle de classe
@@ -58,4 +57,21 @@ Dans quel domaine de design s'inscrit notre outil?
 design d'interfaces
 UI et UX Design
 design de communication
-main
+
+Quels enjeux ?
+
+
+#Références :
+
+Suppots numeriques :
+Logiciels :
+Géogebra 
+Scratch 
+Thinkercad
+Adobe express
+
+Supports matériels :
+Tableau blanc
+Table 
+Livres
+
