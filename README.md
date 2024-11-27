@@ -105,3 +105,41 @@ réponds aux besoins:
 
 comment l'utiliser:
 noter ses rdv
+
+référence:
+bureau 
+
+domaines:
+mobilier
+
+usagers:
+usager qui a acheté le bureau 
+
+répond aux besoins:
+écrire 
+lire
+poser/ranger/organiser des affaires
+dessiner/peintre
+faire ses devoirs 
+
+comment l'utiliser:
+s'assoire sur une chaise en face du bureau
+à plusieurs 
+
+référence:
+Microsoft teams
+
+domaines: 
+informatique/d'interfaces
+design de communication 
+
+usagers:
+personne qui travaille en groupe
+
+répond aux besoins:
+la visioconférence
+la messagerie instantanée
+les appels vidéo
+l'édition de documents
+
+comment l'utiliser:
