@@ -59,3 +59,18 @@ design d'interfaces
 UI et UX Design
 design de communication
 main
+
+quelle support matériels ?
+table
+chaises
+bureaux
+trousse
+sac
+tableau blanc
+
+quelle supports numériques?
+adobe
+photoshop
+google
+github
+
